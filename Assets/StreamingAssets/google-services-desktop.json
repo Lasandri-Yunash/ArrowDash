@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089906314876",
+    "project_id": "unitytestfirebase-92f16",
+    "storage_bucket": "unitytestfirebase-92f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089906314876:android:cd6457899a923a7c1343f9",
+        "android_client_info": {
+          "package_name": "com.UnityTest.TestUnity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiYMyjfnKXKCl8bPmRFHwjcQbl8zI-g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
